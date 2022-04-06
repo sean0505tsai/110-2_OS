@@ -5,3 +5,6 @@
 MODULE_DESCRIPTION("Hello_world");
 MODULE_LICENSE("GPL");
 
+struct Birthday{
+    struct next*;
+};
